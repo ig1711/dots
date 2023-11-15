@@ -1,0 +1,9 @@
+theme = "mytheme"
+
+[editor]
+auto-completion = false
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
