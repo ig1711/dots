@@ -1,0 +1,11 @@
+font=firacode 12
+background-color=#000000ff
+text-color=#b8b8b8ff
+anchor=top-center
+width=400
+height=100
+margin=10
+padding=10
+border-size=0
+border-color=#ff8ceeff
+border-radius=5
