@@ -27,3 +27,5 @@
 27. mpv
 28. imv
 29. pavucontrol
+30. thunar
+31. tumbler
